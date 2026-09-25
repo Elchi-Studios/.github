@@ -26,7 +26,7 @@ the question you came with.
 
 | | What | Where |
 | --- | --- | --- |
-| **EAuth** | Sign-in for every Elchi Studios product and for yours. OpenID Connect, passkeys, organisations, hosted pages. Free, permanently. | [docs.elchi.dev/quickstart](https://docs.elchi.dev/quickstart) |
+| **EAuth** | Sign-in for every Elchi Studios product and for yours. OAuth 2.1 and OpenID Connect, two-factor, hosted pages in your colours, signed webhooks. Free, permanently. | [docs.elchi.dev/quickstart](https://docs.elchi.dev/quickstart) |
 | **EMX** | Business mail. Your domain, IMAP for the apps you have, a web client, an API that does everything the client does, sealed mailboxes when you want them. | in build |
 | **Console** | One place for applications, keys, team and usage across products. | [panel.elchi.dev](https://panel.elchi.dev) |
 
